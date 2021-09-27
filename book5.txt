@@ -1,0 +1,21 @@
+{
+    "name": "Hemanth",
+    "age": 33,
+    "Married": true,
+    "Divorsed": false,
+    "Children": [
+        "Ann",
+        "Billy"
+    ],
+    "Pets": null,
+    "Cars": [
+        {
+            "Model": "BMW 230",
+            "MPG": 27.5
+        },
+        {
+            "Model": "Ford Edge",
+            "MPG": 24.1
+        }
+    ]
+}
